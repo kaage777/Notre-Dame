@@ -110,4 +110,6 @@ dependencies {
     // KLOCK
     api "com.soywiz:klock:$klock"
     api "com.soywiz:klock-jvm:$klock"
+
+    implementation "com.prof.rssparser:rssparser:2.0.2"
 }
